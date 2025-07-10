@@ -1,1 +1,4 @@
-print("3 + 2 =", 3 + 2)
+def sum(a, b):
+    return a + b
+
+print(sum(982, 999))
