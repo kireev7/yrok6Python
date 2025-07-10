@@ -1,4 +1,4 @@
 def sum(a, b):
-    return a + b
+    return print(a + b)
 
-print(sum(982, 999))
+sum(6715, 1768372)
